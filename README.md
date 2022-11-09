@@ -1,4 +1,4 @@
-# car-sales
-Week 6 Reskill Americans Assignment <br>
-Responsive HTML and CSS Practice Page <br>
-https://kboeh.github.io/car-sales/
+# Responsive Infographic Card
+This fullly responsive page was created in vanilla HTML and CSS.
+Use the link below to see:
+https://kboeh.github.io/infographic/
